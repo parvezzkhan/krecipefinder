@@ -234,7 +234,7 @@
   
   @media screen and (max-width: 768px) {
     #cooking {
-      display: none;
+      display: block;
     }
   }
   
